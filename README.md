@@ -1,5 +1,6 @@
         
-###<h2 align="center">Hi there 👋</h2>
+
+<h2 align="center">Hi there 👋</h2>
 <h4 align="left">I'm a Full-Stack MERN Developer.</h4>
 
 
