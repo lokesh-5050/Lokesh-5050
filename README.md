@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi there 👋</h2>
 
-###Enthusiastic , Always keen to learn more. Currently working on flutter.
+<h5>Enthusiastic , Always keen to learn more. Currently working on flutter.</h5>
 
 <h4 align="left">I'm a Full-Stack MERN Developer.</h4>
 
